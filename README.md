@@ -3,6 +3,7 @@
 A bash script for automated cybersecurity reconnaissance.  
 It integrates multiple tools for **subdomain enumeration, liveness detection, screenshotting, and service scanning**.  
 
+Created by Dhruv Bhoir, Certified Ethical Hacker & Penetration Tester.
 ---
 
 ## 🚀 Features
@@ -28,15 +29,15 @@ sudo apt install -y nmap gowitness subfinder assetfinder httprobe
 
 ## Clone the repo:
 ```
-git clone https://github.com/yourusername/recon-automation.git
-cd recon-automation
-chmod +x recon.sh
+git clone https://github.com/dhruva127/Recorn-toolkit
+cd Recorn-toolkit
+chmod +x recon-toolkit.sh
 ```
 ---
 
 ## ⚡ Usage
 ```
-./recon.sh example.com
+./recon-toolkit.sh example.com
 ```
 ---
 
