@@ -29,7 +29,7 @@ sudo apt install -y nmap gowitness subfinder assetfinder httprobe
 
 ## Clone the repo:
 ```
-git clone https://github.com/dhruva127/Recorn-toolkit
+git clone https://github.com/Shree-Organization/Recorn-toolkit
 cd Recorn-toolkit
 chmod +x recon-toolkit.sh
 ```
